@@ -79,15 +79,16 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    UpstatePHP
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://www.meetup.com/Hack-Greenville/events/ppplnpyxkbzb/">Meetup</a>
+                    <a href="https://data.openupstate.org/organization/upstatephp">Hack Greenville</a>
+                    <a href="https://www.facebook.com/groups/upstatepug/">Facebook</a>
+                    <a href="https://twitter.com/upstatephp">Twitter</a>
+                    <a href="https://opencollective.com/upstatephp#about">Support Us</a>
+                    <a href="https://github.com/UpstatePHP">GitHub</a>
                 </div>
             </div>
         </div>
