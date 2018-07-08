@@ -422,6 +422,7 @@ li, ul {
 		float: left;
 		margin-right: 12px;
 		width: 80px;
+		height: auto;
 	}
 }
 
@@ -819,11 +820,12 @@ li, ul {
 	    }
 	}
 	.intro-content{
-		h2 {
-			font-size: 45px;
-		}
 		h1 {
-			font-size: 23px;
+			font-size: 42px;
+		}
+
+		.intro-logo {
+			width: 50px;
 		}
 	}
 
