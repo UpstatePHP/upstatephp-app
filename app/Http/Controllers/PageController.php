@@ -12,6 +12,7 @@ class PageController extends Controller
         $sections = [
             'banner',
             'about',
+            'portfolio',
             'map',
         ];
 
