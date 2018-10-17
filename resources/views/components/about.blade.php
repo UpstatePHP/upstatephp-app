@@ -6,7 +6,7 @@
                 <h2 class="article-title">Come join us one evening</h2>
                 <p>We meet on the third Thursday of every month in downtown Greenville, South Carolina to discuss all things web with a focus on PHP. All skill levels are welcome, from beginner to seasoned pro, we have something for everyone.</p>
                 <p>
-                    <a class="button" href="https://www.meetup.com/Hack-Greenville/events/ppplnpyxmbbc/">Join Event</a>
+                    <a class="button" href="https://www.meetup.com/Hack-Greenville/events/ppplnpyxnbxb/">Join Event</a>
                 </p>
                 <div class="social">
                     <a class="wow fadeInUp"
